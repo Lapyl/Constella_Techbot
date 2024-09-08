@@ -1,4 +1,4 @@
-# Constella_Techbot
+# Constella Techbot
 
 Chatbot trained with technical documents of Constellation Network
 
