@@ -36,7 +36,7 @@ For the Botpress option, we logged into our Botpress account. We created a new c
 
 ## Challenges we ran into
 
-To avoid costs of cloud computing, we built our Llama based model by using our own computer. We encountered numerous hurdles, mainly related to compatibilities of version of Python and various packages. Other minor projects were regarding nicely arranging the two chatbots on our website.
+To avoid costs of cloud computing, we built our Llama based model by using our own computer. We encountered numerous hurdles, mainly related to compatibilities of version of Python and various packages. Other minor problems were regarding nicely arranging the two chatbots on our website.
 
 ## Accomplishments that we're proud of
 
