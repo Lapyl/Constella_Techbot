@@ -1,6 +1,16 @@
 # Constella Techbot
 
-Chatbot trained with technical documents of Constellation Network
+Botpress and Llama Chatbots trained with Constellation Network's Technical Documents
+
+Project by Lalit + Vishnu + Laxmi Patel, submitted to the Constellation Metagraph Hackathon 2024
+
+# YouTube Video
+
+https://www.youtube.com/watch?v=SuIZ2WeXigM
+
+# DevPost Submission
+
+https://devpost.com/software/constella-techbot
 
 ## Inspiration
 
