@@ -49,3 +49,7 @@ At Hugging Face, we came across many open-source Natural Language Processing mod
 ## What's next for Constella Techbot
 
 We will train our Llama based and Botpress provided models with more documents to make these chatbots look more promising. We will find some ways and means of making our Llama based chatbot  quicker and more responsive.
+
+# Note
+
+This repository does not contain models and node_modules folders, which may be downloaded from elsewhere as and when needed.
